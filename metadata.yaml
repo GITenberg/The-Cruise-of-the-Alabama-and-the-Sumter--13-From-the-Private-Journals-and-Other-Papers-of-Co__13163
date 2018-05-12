@@ -1,0 +1,32 @@
+_repo: The-Cruise-of-the-Alabama-and-the-Sumter--13-From-the-Private-Journals-and-Other-Papers-of-Co__13163
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Semmes, Raphael
+    birthdate: 1809
+    deathdate: 1877
+    gutenberg_agent_id: '4940'
+    url: http://www.gutenberg.org/2009/agents/4940
+    wikipedia: http://en.wikipedia.org/wiki/Raphael_Semmes
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Naval operations'
+- !lcsh 'Sumter (Confederate cruiser)'
+- !lcsh 'Confederate States of America. Navy'
+- !lcc 'E456'
+- !lcsh 'Alabama (Screw sloop)'
+title: "The Cruise of the Alabama and the Sumter\r\nFrom the Private Journals and\
+  \ Other Papers of Commander R. Semmes, C.S.N., and Other Officers"
+url: http://www.gutenberg.org/ebooks/13163

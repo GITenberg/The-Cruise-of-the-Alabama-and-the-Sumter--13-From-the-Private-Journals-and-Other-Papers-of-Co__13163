@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4940
     wikipedia: http://en.wikipedia.org/wiki/Raphael_Semmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13163#The-Cruise-of-the-Alabama-and-the-Sumter--13-From-the-Private-Journals-and-Other-Papers-of-Co_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2004-08-12'
 gutenberg_type: Text
